@@ -18,4 +18,3 @@ MemoryMemberRepository implements MemberRepository {
         return store.get(memberId);
     }
 }
-
